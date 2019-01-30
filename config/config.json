@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Abhinav_Kumar",
+    "password": null,
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Abhinav_Kumar",
+    "password": null,
+    "database": "postgres_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Abhinav_Kumar",
+    "password": null,
+    "database": "postgres_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
